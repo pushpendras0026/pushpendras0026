@@ -3,7 +3,7 @@
 # Hi, I'm Pushpendra Singh 👋
 ### B.Tech in Data Science & Artificial Intelligence @ IIT Guwahati
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+Data+Science+%26+AI+%40+IIT+Guwahati;Deep+Learning+%7C+Computer+Vision+%7C+PINNs;High-Performance+C%2B%2B20+Concurrent+Systems;InterIIT+Tech+Meet+14.0+%7C+Coding+Club+IITG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+Data+Science+%26+AI+%40+IIT+Guwahati;Deep+Learning+%7C+Computer+Vision+%7C+PINNs;High-Performance+C%2B%2B20+Concurrent+Systems;InterIIT+Tech+Meet+14.0)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pushpendras0026&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -23,7 +23,6 @@
 - 🔬 **Research & Applied AI**: Working across **Physics-Informed Neural Networks (PINNs)**, **Multi-Camera Computer Vision (STMN Re-ID)**, and **Numerical Reasoning over Financial Reports**.
 - ⚡ **High-Performance Systems**: Designing lock-free and wait-free concurrent data structures in **modern C++20** with micro-benchmarking using **Google Benchmark**.
 - 🏆 **Competitive Tech & Hackathons**: Contributor at **InterIIT Tech Meet 14.0 (Vortex)**, **ISRO Hackathon**, and **Kriti Inter-Hostel Tech Meet** (SpeakX Aurora).
-- 🤝 **Community & Mentorship**: Active member of **Coding Club IIT Guwahati** and **IITG.ai**; mentor and lecture contributor for **Algomaniacs 2025**.
 
 ---
 
@@ -60,7 +59,7 @@
       <p align="center">
         <a href="https://github.com/pushpendras0026/ThreadSafeQueueLib"><b>View Repository »</b></a>
       </p>
-      <p>High-performance concurrent queue library built under <b>Coding Club IIT Guwahati</b>. Features <b>wait-free, lock-free, and blocking</b> queues (SPSC, MPSC, MPMC) using modern C++20 memory order semantics and rigorous <b>Google Benchmark</b> profiling.</p>
+      <p>High-performance concurrent queue library. Features <b>wait-free, lock-free, and blocking</b> queues (SPSC, MPSC, MPMC) using modern C++20 memory order semantics and rigorous <b>Google Benchmark</b> profiling.</p>
       <p><b>Stack:</b> <code>C++20</code>, <code>Lock-Free Atomics</code>, <code>Google Benchmark</code>, <code>CMake</code></p>
     </td>
   </tr>
@@ -101,14 +100,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🧠 Research & Foundations
-
-- 🧬 **[Bayesian Neural Network from Scratch](https://github.com/pushpendras0026/Bayesian_neural_network_from_scratch_python)**: Ground-up mathematical implementation of Bayesian Deep Learning in pure Python, NumPy, and SciPy for regression and classification under epistemic uncertainty.
-- 📡 **[ISRO Hackathon](https://github.com/pushpendras0026/ISRO_HACKATHON)**: Computational solutions and geospatial data pipelines developed for ISRO challenges.
-- 📚 **[Algomaniacs 2025](https://github.com/pushpendras0026/Algomaniacs-2025)**: Algorithms, data structures, and competitive programming lectures for students at Coding Club IIT Guwahati.
 
 ---
 
