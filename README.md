@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+Data+Science+%26+AI+%40+IIT+Guwahati;Deep+Learning+%7C+Computer+Vision+%7C+PINNs;High-Performance+C%2B%2B20+Concurrent+Systems;InterIIT+Tech+Meet+14.0+%7C+Coding+Club+IITG)](https://git.io/typing-svg)
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pushpendras0026&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <a href="mailto:singhpush7351@gmail.com"><img src="https://img.shields.io/badge/Email-singhpush7351%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/pushpendras0026"><img src="https://img.shields.io/badge/GitHub-pushpendras0026-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/pushpendras0026"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,7 +21,7 @@
 
 - 🎓 **Undergraduate Student** pursuing a B.Tech in **Data Science & Artificial Intelligence** at the **Indian Institute of Technology Guwahati (IIT Guwahati)**.
 - 🔬 **Research & Applied AI**: Working across **Physics-Informed Neural Networks (PINNs)**, **Multi-Camera Computer Vision (STMN Re-ID)**, and **Numerical Reasoning over Financial Reports**.
-- ⚡ **High-Performance Systems**: Building lock-free and wait-free concurrent data structures in **modern C++20** with micro-benchmarking using **Google Benchmark**.
+- ⚡ **High-Performance Systems**: Designing lock-free and wait-free concurrent data structures in **modern C++20** with micro-benchmarking using **Google Benchmark**.
 - 🏆 **Competitive Tech & Hackathons**: Contributor at **InterIIT Tech Meet 14.0 (Vortex)**, **ISRO Hackathon**, and **Kriti Inter-Hostel Tech Meet** (SpeakX Aurora).
 - 🤝 **Community & Mentorship**: Active member of **Coding Club IIT Guwahati** and **IITG.ai**; mentor and lecture contributor for **Algomaniacs 2025**.
 
@@ -105,7 +106,7 @@
 
 ## 🧠 Research & Foundations
 
-- 🧬 **[Bayesian Neural Network from Scratch](https://github.com/pushpendras0026/Bayesian_neural_network_from_scratch_python)**: Ground-up implementation of Bayesian Deep Learning in pure Python, NumPy, and SciPy for regression and classification with uncertainty estimation.
+- 🧬 **[Bayesian Neural Network from Scratch](https://github.com/pushpendras0026/Bayesian_neural_network_from_scratch_python)**: Ground-up mathematical implementation of Bayesian Deep Learning in pure Python, NumPy, and SciPy for regression and classification under epistemic uncertainty.
 - 📡 **[ISRO Hackathon](https://github.com/pushpendras0026/ISRO_HACKATHON)**: Computational solutions and geospatial data pipelines developed for ISRO challenges.
 - 📚 **[Algomaniacs 2025](https://github.com/pushpendras0026/Algomaniacs-2025)**: Algorithms, data structures, and competitive programming lectures for students at Coding Club IIT Guwahati.
 
@@ -114,12 +115,12 @@
 ## 📈 GitHub Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushpendras0026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="Pushpendra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendras0026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pushpendras0026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="Pushpendra's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pushpendras0026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpendras0026&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=pushpendras0026&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
